@@ -1,7 +1,7 @@
 # 🛠️ 당일 세팅 가이드 — OpenCode + Zen 무료 모델
 
 > 이 문서는 **수업 당일 처음 세팅해야 하는 AI 코딩 도구** 안내입니다. (강사 준비 + 학생 실습)
-> 강의 슬라이드: https://aightlabs.github.io/jdh-school-vibe-coding/ · 저장소: https://github.com/AightLabs/jdh-school-vibe-coding
+> 강의 슬라이드: https://vcl-korea.github.io/jdh-school-vibe-coding/ · 저장소: https://github.com/vcl-korea/jdh-school-vibe-coding
 
 **Ollama 없이 · Windows(HP Omen) · VS Code + OpenCode(터미널) + OpenCode Zen 무료 모델**
 

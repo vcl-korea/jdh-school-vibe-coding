@@ -3,8 +3,8 @@
 AI와 대화하며 나만의 웹앱을 만들고 인터넷에 배포하는 **중·고등 코딩 특강**(3시간) 자료입니다.
 강의 **슬라이드**와 **스타터 패키지**가 한 저장소에 들어 있어요.
 
-- 📊 **장대현 수업용(웹):** https://aightlabs.github.io/jdh-school-vibe-coding/ — 3부 개발환경 세팅 + 이후 스스로 읽는 자습서
-- 📦 **저장소:** https://github.com/AightLabs/jdh-school-vibe-coding
+- 📊 **장대현 수업용(웹):** https://vcl-korea.github.io/jdh-school-vibe-coding/ — 3부 개발환경 세팅 + 이후 스스로 읽는 자습서
+- 📦 **저장소:** https://github.com/vcl-korea/jdh-school-vibe-coding
 - 🧰 **스타터 가이드:** [STARTER-GUIDE.md](./STARTER-GUIDE.md)
 - 🛠️ **당일 세팅(AI 도구):** [SETUP-OpenCode-Zen.md](./SETUP-OpenCode-Zen.md) — VS Code + OpenCode(npm) + Zen 무료 모델
 
@@ -22,7 +22,7 @@ AI와 대화하며 나만의 웹앱을 만들고 인터넷에 배포하는 **중
 ## 🧑‍🎓 학생용 빠른 시작
 1. 이 저장소를 받기 — 초록 **Code → Download ZIP**, 또는
    ```
-   git clone https://github.com/AightLabs/jdh-school-vibe-coding.git
+   git clone https://github.com/vcl-korea/jdh-school-vibe-coding.git
    ```
 2. `starters/`에서 원하는 스타터 폴더를 **내 새 폴더로 복사** → VS Code로 열기
 3. `index.html`을 브라우저/Live Server로 확인, `prd.md`를 내 기획으로 채우기
@@ -32,7 +32,7 @@ AI와 대화하며 나만의 웹앱을 만들고 인터넷에 배포하는 **중
 
 ## 🖥 강의 슬라이드 보기 / 배포
 - 로컬: `index.html`을 브라우저로 열기
-- 웹 공개(GitHub Pages): **Settings → Pages → Branch: `main` /(root) → Save** → https://aightlabs.github.io/jdh-school-vibe-coding/
+- 웹 공개(GitHub Pages): **Settings → Pages → Branch: `main` /(root) → Save** → https://vcl-korea.github.io/jdh-school-vibe-coding/
 - **인쇄/PDF 유인물:** 상단 **🖨 인쇄** → 한 슬라이드가 한 페이지. 언어 토글을 中으로 두고 인쇄하면 중국어 유인물
 
 ## 🧭 슬라이드 목차

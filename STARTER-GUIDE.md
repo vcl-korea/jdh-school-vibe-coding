@@ -1,7 +1,7 @@
 # 🧰 스타터 준비 & 사용 가이드
 
 이 문서 하나로 **스타터가 무엇인지, 무엇이 들어 있는지, 어떻게 시작하고 배포하는지**를 정리했어요.
-(강의 슬라이드: https://aightlabs.github.io/jdh-school-vibe-coding/ · 저장소: https://github.com/AightLabs/jdh-school-vibe-coding)
+(강의 슬라이드: https://vcl-korea.github.io/jdh-school-vibe-coding/ · 저장소: https://github.com/vcl-korea/jdh-school-vibe-coding)
 
 ---
 
@@ -41,7 +41,7 @@
 - **방법 A · ZIP (가장 쉬움):** 저장소에서 초록 **Code → Download ZIP** → 압축 풀기
 - **방법 B · git clone:**
   ```
-  git clone https://github.com/AightLabs/jdh-school-vibe-coding.git
+  git clone https://github.com/vcl-korea/jdh-school-vibe-coding.git
   ```
 
 ### ② 내 폴더로 복사 후 열기
@@ -59,7 +59,7 @@
 - 멈추기 전 `context.md`의 "다음에 할 일" 갱신
 
 ## 5. 배포하기 (내 저장소 → GitHub Pages)
-> 수업 저장소(AightLabs/...)는 함께 쓰는 것이라 **직접 올릴 수 없어요.** 반드시 **내 저장소**를 새로 만들어 올립니다.
+> 수업 저장소(vcl-korea/...)는 함께 쓰는 것이라 **직접 올릴 수 없어요.** 반드시 **내 저장소**를 새로 만들어 올립니다.
 1. VS Code에서 내 폴더 열기 → **Source Control** (왼쪽 가지 아이콘)
 2. 메시지 `first commit` → **✓ Commit**
 3. **Publish to GitHub → public** 선택 → 내 저장소가 생성됨
@@ -73,4 +73,4 @@
 - **모델이 느리거나 막힘** → OpenCode에서 `/models`로 다른 무료 모델 전환
 
 ---
-문의·수정은 저장소 이슈로: https://github.com/AightLabs/jdh-school-vibe-coding
+문의·수정은 저장소 이슈로: https://github.com/vcl-korea/jdh-school-vibe-coding
